@@ -5,7 +5,7 @@
 
 ## My experiences
 
-- Developing introductory websites 
+- Developing Protfolio Webs
   
 - Python basics and the PyQt5 library
 
