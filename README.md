@@ -1,7 +1,7 @@
-#  👋 Hi, I’m @omarmhmd1
+#  👋 Hi, I’m OmarMohammed
 - 👀 I’m interested in *Web Developing* and *Python*
 - 🌱 I’m currently learning Web Developing and Python
-- 📫 How to reach me with MY WEBSITE "*https://*"
+- 📫 How to reach me with MY WEBSITE "*[Omar's Web](https://omarmhmd1.github.io/omarweb/)*"
 
 ## My experiences
 
