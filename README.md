@@ -5,7 +5,7 @@
 
 ## My experiences
 
-- Developing Protfolio Webs
+- Developing Websites whether Protfolio Webs or Dashboards
   
 - Python basics and the PyQt5 library
 
